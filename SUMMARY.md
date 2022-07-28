@@ -17,3 +17,4 @@
 * [System 7.0](classic/system-7.0.md)
 * [✨ System 7.5.3 SC+US](classic/system-7.5.3.md)
 * [System 7.5.5](classic/system-7.5.5.md)
+* [System 7.6.1](classic/system-7.6.1.md)
