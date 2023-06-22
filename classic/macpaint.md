@@ -26,6 +26,6 @@ M$Paint的界面和这个可以说是十分/_雷同_/，并且Ps侧边栏也来�
 
 ![](https://wvbarchive-1310561333.cos.ap-hongkong.myqcloud.com/5505567339/c7f5c68a87d6277f0946c9d223381f30eb24fcfe.jpg)
 
-像 @焊锡补牙 之前所说的那样，Bill Atkinson真的是个大胡子<img src="../.gitbook/assets/huaji.png" alt="" data-size="line">
+像 [**@焊锡补牙**](https://community.wvbtech.com/u/solderwire) 之前所说的那样，Bill Atkinson真的是个大胡子<img src="../.gitbook/assets/huaji.png" alt="" data-size="line">
 
 我在MacPaint上看到了很多后启之秀的影子，包括Ps那隔了三十年的侧栏。MacPaint，开启了图像GUI处理的大门。

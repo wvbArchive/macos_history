@@ -18,3 +18,11 @@
 * [✨ System 7.5.3 SC+US](classic/system-7.5.3.md)
 * [System 7.5.5](classic/system-7.5.5.md)
 * [System 7.6.1](classic/system-7.6.1.md)
+* [Mac OS 8.1](classic/mac-os-8.1.md)
+* [✨ Mac OS 8.5 SC+US](classic/mac-os-8.5-sc+us.md)
+* [Mac OS 8.6](classic/mac-os-8.6.md)
+* [✨ Mac OS 9 SC+US](classic/mac-os-9-sc+us.md)
+
+## OS X / macOS
+
+* [Mac OS X Public Beta](os-x-macos/mac-os-x-public-beta.md)
