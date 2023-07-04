@@ -31,5 +31,5 @@
 ## OS X / macOS
 
 * [Mac OS X Public Beta](os-x-macos/mac-os-x-public-beta.md)
-* [Mac OS X 10.2](os-x-macos/mac-os-x-10.2.md)
+* [✨ Mac OS X 10.2 (on PowerBook G4)](os-x-macos/mac-os-x-10.2-on-powerbook-g4.md)
 * [✨ Mac OS X 10.3 (on PowerBook G4)](os-x-macos/mac-os-x-10.3-on-powerbook-g4.md)

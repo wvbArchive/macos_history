@@ -24,7 +24,11 @@ Macintosh Guided Tour是目前已知最早的System Software公共发布版本�
 
 ![](https://wvbarchive-1310561333.cos.ap-hongkong.myqcloud.com/5505567339/f8fa1ced54e736d129b773e190504fc2d76269ac.jpg)
 
-![](https://wvbarchive-1310561333.cos.ap-hongkong.myqcloud.com/5505567339/3b1833e636d12f2ebea1518944c2d562873568ac.jpg)
+<div align="center">
+
+<img src="https://wvbarchive-1310561333.cos.ap-hongkong.myqcloud.com/5505567339/3b1833e636d12f2ebea1518944c2d562873568ac.jpg" alt="">
+
+</div>
 
 不过，除了鼠标教程能正常打开之外，其他的东西都会爆070B错误，然后是动画，完了之后就宕机。
 

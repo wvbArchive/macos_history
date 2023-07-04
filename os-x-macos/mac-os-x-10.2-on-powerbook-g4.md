@@ -1,4 +1,4 @@
-# Mac OS X 10.2
+# ✨ Mac OS X 10.2 (on PowerBook G4)
 
 插盘，开机按下C，就可以从光盘启动<img src="../.gitbook/assets/huaji.png" alt="" data-size="line">
 
