@@ -22,7 +22,14 @@
 * [✨ Mac OS 8.5 SC+US](classic/mac-os-8.5-sc+us.md)
 * [Mac OS 8.6](classic/mac-os-8.6.md)
 * [✨ Mac OS 9 SC+US](classic/mac-os-9-sc+us.md)
+* [✨ Mac OS 9.22 (on PowerBook G4)](classic/mac-os-9.22-on-powerbook-g4.md)
+
+***
+
+* [🌟 Rhapsody](rhapsody.md)
 
 ## OS X / macOS
 
 * [Mac OS X Public Beta](os-x-macos/mac-os-x-public-beta.md)
+* [Mac OS X 10.2](os-x-macos/mac-os-x-10.2.md)
+* [✨ Mac OS X 10.3 (on PowerBook G4)](os-x-macos/mac-os-x-10.3-on-powerbook-g4.md)
